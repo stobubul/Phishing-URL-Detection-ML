@@ -1,0 +1,9 @@
+# Dataset dosyaları
+*.csv
+*.txt
+
+# Python önbellek ve sanal ortam dosyaları
+__pycache__/
+.venv/
+venv/
+*.pyc
