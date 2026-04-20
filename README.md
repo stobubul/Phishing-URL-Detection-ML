@@ -49,6 +49,3 @@ python src/feature_extraction.py
 ```
 ## 🧠 Model Training (In Progress)
 (Documentation regarding Train/Test splits, algorithm selection (e.g., Random Forest), and evaluation metrics will be added in the next phase.)
-
-
-Bu güncellemeyi de GitHub'a yolladıktan sonra (commit mesajı olarak `docs: update README with final dataset metrics and advanced features` kullanabilirsin), artık makine öğrenimi modellerimizi eğiteceğimiz o kritik Python koduna geçebiliriz!
